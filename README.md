@@ -1,4 +1,4 @@
-# VU MIF Robotics — Homework Nr. 2
+# VU MIF Robotics — Homework Nr. 3
 
 ## Main Goal
 
