@@ -7,8 +7,6 @@ A button press triggers an external interrupt (INT0), toggling a servo motor bet
 A hardware timer interrupt (Timer2) generates 10 ms periodic timing events.  
 The current servo angle and button press count are stored in EEPROM and restored after power cycling.
 
-This demonstrates a fully asynchronous, event-driven embedded design that meets all HW2 requirements.
-
 ---
 
 ## Features
