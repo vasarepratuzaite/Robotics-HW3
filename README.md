@@ -45,20 +45,7 @@ The system is fully asynchronous:
 ---
 
 ## Demo Video
-
-*(Add link here)*
-
----
-
-## Project Photo
-
-*(Add photo here)*
-
----
-## Demo video
-
-
-https://github.com/user-attachments/assets/aa6f68d4-6f54-451d-947d-fbce9cbea73f
+https://www.youtube.com/watch?v=y7dThOe1k6w
 
 ___
 
